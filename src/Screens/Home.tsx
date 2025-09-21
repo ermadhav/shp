@@ -9,7 +9,7 @@ import ProductItem from '../components/ProductItem'
 import Separator from '../components/Separator'
 
 // data
-import { PRODUCTS_LIST } from '../data/contants'
+import { PRODUCTS_LIST } from '../data/constants';
 
 type HomeProps = NativeStackScreenProps<RootStackPramList, "Home">
 
